@@ -1,0 +1,35 @@
+header {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    padding: 0 2rem;
+    justify-content: space-between;
+    align-items: center;
+    font-family:Verdana, Tahoma, sans-serif;
+    background-color: #cf6ac2;
+    position:fixed;
+    margin-top: -70px;
+}
+
+#logotype{
+    height: 70px;
+}
+#menu{
+    margin: 0 0 0 10%;
+}
+#menu ul li{
+    display: inline;
+    margin: 0 1.5rem;
+}
+
+#contakt ul li{
+    margin: 0 0.2rem;
+    list-style: none;
+}
+
+.menubutton{
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+
+}
