@@ -9,7 +9,7 @@ export default function App() {
 
       <main id = "main">
         <div id = "baner" > 
-          {/* <img src = "../public/постер-1.png" height={500} width={1230}/> */}
+
         </div>
         <div id = "content">
           <ul>
@@ -44,6 +44,7 @@ export default function App() {
       </main>
 
       <Footer />
+      
     </div>
 
   )

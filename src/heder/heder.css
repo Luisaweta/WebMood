@@ -25,11 +25,16 @@ header {
 #contakt ul li{
     margin: 0 0.2rem;
     list-style: none;
+    font-size: 14pt;
+    color: white;
 }
 
 .menubutton{
     height: 40px;
     width: 120px;
     border-radius: 30px;
-
+    border-color: rgb(225, 20, 153);
+    font-size: 14pt;
+    color: #cf6ac2;
 }
+
